@@ -1,0 +1,27 @@
+{
+  "nodes": {
+    "nixpkgs": {
+      "locked": {
+        "lastModified": 1742181703,
+        "narHash": "sha256-23Kn4QBsb1dYxruCuSqGYlbRvi+6XhXLG/BYjBmhCac=",
+        "owner": "sepiabrown",
+        "repo": "nixpkgs",
+        "rev": "9e093f9dc8009b8992d93569d403fdfca3b13a0a",
+        "type": "github"
+      },
+      "original": {
+        "owner": "sepiabrown",
+        "ref": "cusparselt-init",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
+    "root": {
+      "inputs": {
+        "nixpkgs": "nixpkgs"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
